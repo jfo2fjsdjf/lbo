@@ -1,23 +1,23 @@
-title: Your awsome title
+title: Luiz
 author:
   name: GitHub User
-  email: your-email@domain.com
+  email: lbo@kean.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   This will be the place where I share the process of learning architectural design in my junior year
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+theme: minima
 minima:
   date_format: "%b %-d, %Y"
-
+  skin: dark
+  
   # generate social links in footer
   social_links:
-    twitter: jekyll
-    github:  jekyll
+    # twitter: jekyll
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
