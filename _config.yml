@@ -1,7 +1,7 @@
 title: Your awsome title
 author:
   name: GitHub User
-  email: your-email@donain.com
+  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   This will be the place where I share the process of learning architectural design in my junior year
   line in _config.yml. It will appear in your document head meta (for
