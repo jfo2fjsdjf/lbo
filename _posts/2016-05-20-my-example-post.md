@@ -1,12 +1,13 @@
 ---
 layout: post
+title: "semi-open house"
+categories:
+author:
+- Luiz
+meta:
 ---
+Welcome! Here is Luiz website.
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+[Studio-semi-open house][2a21c033]
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
-
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+  [2a21c033]: https://shipley-xinyuwang.github.io/3yr-Studio-Flexibility/ "shipley"
