@@ -6,7 +6,7 @@ author:
 - Luiz
 meta:
 ---
-Welcome! Here is Luiz website.
+Welcome! Here is early research of the competition.
 
 [Studio-Early Research][2a21c033]
 
