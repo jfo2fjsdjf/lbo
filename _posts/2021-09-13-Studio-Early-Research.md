@@ -29,3 +29,20 @@ The designer therefore creates an opportunity for the two sides to communicate a
 ![Yongjia Road Youth Shared Space Design / Greyspace Architecture Design Studio](https://images.adsttc.com/media/images/612d/467e/f91c/811e/f600/02a1/slideshow/%E5%85%A5%E5%8F%A3%E9%97%A8%E5%BB%8A_The_porch_%C2%A9Chen_Hao.jpg?1630357008)
 
 Besides, each bedroom has a window to the reception area, a window to the outdoor space and a door opening for access, allowing the user to decide which part of the external space to contact. The bedroom size can be very small. The designer arranged three groups of bedrooms with different elevations in the height of about 12㎡, and connected by a staircase. Different from the technique of material and image collage in the reception area, the designer used wood veneer to cover the bedroom area, in order to minimize the interference of materials on the space experience, and focus on the relationship between multiple Spaces.
+
+# Wanderlust 24′ Tiny House
+
+![Wanderlust 24′ Tiny House](https://rockymountaintinyhouses.com/wp-content/uploads/2017/12/DSC_5162.jpg)
+
+The rv can be accessed in three different ways:an opening from the gear shed side, on opening from the living room side where there is a removable step, and trap doors in the center of the floor, two in the kitchen and one in the bathroom. They use floor storage space, adding the vee nose made this space a little larger.
+
+![Wanderlust 24′ Tiny House](https://rockymountaintinyhouses.com/wp-content/uploads/2017/12/wanderlust1.jpg)
+
+![Wanderlust 24′ Tiny House](https://rockymountaintinyhouses.com/wp-content/uploads/2017/12/wanderlust2.jpg)
+
+At the other end of the house is the living space, accessible two steps down from the main landing.And the house is about 98% built, with a fixed budget of $67,000.
+
+
+
+
+
