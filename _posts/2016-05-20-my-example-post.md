@@ -10,4 +10,4 @@ Welcome! Here is Luiz website.
 
 [Studio-semi-open house][2a21c033]
 
-  [2a21c033]: https://shipley-xinyuwang.github.io/3yr-Studio-Flexibility/ "shipley"
+  [2a21c033]: https://jfo2fjsdjf.github.io/lbo/
