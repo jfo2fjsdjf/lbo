@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "semi-open house"
+title: "Hiding space house"
 categories:
 author:
 - Luiz
