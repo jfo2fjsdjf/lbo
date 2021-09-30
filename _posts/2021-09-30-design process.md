@@ -6,7 +6,7 @@
 
 
 
-![cutaway.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/cutaway.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
+![cutaway.jpg](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/cutaway.jpg?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
 
 
 
