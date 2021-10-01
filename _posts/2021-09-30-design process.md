@@ -16,9 +16,8 @@ The Tiny house will be designed in the form of passive house to minimal energy c
 
 ![diagram1.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/diagram1.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
 
-![全景图_最终方案2_2021-10-01-08-10-33.jpg](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/全景图_最终方案2_2021-10-01-08-10-33.jpg?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
+https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.imgur.com/YSW2yWT.jpg&title=Clean%20room&author=Luiz
 
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.imgur.com/YSW2yWT.jpg&title=Clean%20room&author=Luiz"></iframe>
 
 
 ![s1.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/s1.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
