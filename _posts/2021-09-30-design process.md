@@ -1,4 +1,6 @@
 The Tiny house will be designed in the form of passive house to minimal energy consumption. In order to solve the air problem in Salt Lake City to some extent and to consider the future air quality, spray Concrete technology is adopted in this tiny house, so that there is basically no gap outside the building, and the outside air cannot directly enter the building.The external air passes through an air filter and heat is exchanged so that only clean, warm air reaches the room.To ensure that people can live and breathe healthy air.
+#Site
+!
 
 #Ventilation
 
