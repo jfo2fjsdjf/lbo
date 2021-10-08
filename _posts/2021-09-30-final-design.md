@@ -31,6 +31,12 @@ The Tiny house will be designed in the form of passive house to minimal energy c
 ## Photosphere
 https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.imgur.com/YSW2yWT.jpg&title=Clean%20room&author=Luiz
 
+
+## GIF
+
+![BrowserPreview_tmp](https://user-images.githubusercontent.com/90538498/136554089-df460665-1615-495b-9877-ec6b01a54c10.gif)
+
+
 ## Plan and Section
 
 ![plan.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/plan.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
