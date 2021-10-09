@@ -39,11 +39,9 @@ https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.imgur.com/YSW2y
 
 ## Plan and Section
 
-[section.pdf](https://github.com/jfo2fjsdjf/lbo/files/7314920/section.pdf)
+![plan](https://user-images.githubusercontent.com/90538498/136643139-856653ba-00f4-4e15-b68c-94d05dc1b32f.png)
 
-[plan.pdf](https://github.com/jfo2fjsdjf/lbo/files/7314921/plan.pdf)
-
-![plan.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/plan.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
+![section](https://user-images.githubusercontent.com/90538498/136643140-959237f8-cd4e-4273-be7a-f1bcc50b1645.png)
 
 ![diagrams.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/diagrams.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
 
