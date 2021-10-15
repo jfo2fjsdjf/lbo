@@ -4,8 +4,6 @@ Floor Area(in both m² and sf):27.01m² 290.63ft²
 
 Interior Volume:81.03m³
 
-# Poster
-[Luiz 1129379.pdf](https://github.com/jfo2fjsdjf/lbo/files/7350029/Luiz.1129379.pdf)
 
 ### Mterial/Construction
 
@@ -62,5 +60,6 @@ https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.imgur.com/YSW2y
 ![in2.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/in2.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
 
 ![in3.png](https://github.com/jfo2fjsdjf/lbo/blob/master/assets/in3.png?raw=true?raw=true&w=300&h=300&output=jpg&q=50&fit=cover")
+
 
 
